@@ -21,5 +21,6 @@
 		"node": ">=6"
 	},
 	"dependencies": {
+		"gps-distance": "0.0.4"
 	}
 }
