@@ -1,0 +1,25 @@
+{
+	"name": "bvg-shuttle-prediction",
+	"description": "Predict travel times of the BVG autonomous shuttle.",
+	"version": "0.1.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"public transport",
+		"transit",
+		"bvg",
+		"berlin"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/bvg-shuttle-prediction",
+	"repository": "derhuerst/bvg-shuttle-prediction",
+	"bugs": "https://github.com/derhuerst/bvg-shuttle-prediction/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	},
+	"dependencies": {
+	}
+}
